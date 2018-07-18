@@ -4,7 +4,7 @@ private class BasicVisualforcePage2_Test{
     BasicVisualforcePage2 obj01 = new BasicVisualforcePage2();
     obj01.num1 = 10;
     obj01.num2 = 10;
-    obj01.additionValue = 10;
+    obj01.additionValue = 1000;
     obj01.myAdditionMethod();
   }
    static testMethod void test_mysubMethod_UseCase1(){
