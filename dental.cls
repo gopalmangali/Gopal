@@ -1,4 +1,4 @@
-public class dental {
+public class dental1213 {
 
     public dental__c Account { get; set; }
     
