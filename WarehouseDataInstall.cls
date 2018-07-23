@@ -1,4 +1,4 @@
-public with sharing class WarehouseDataInstall {
+public with sharing class WarehouseDataInstall123 {
 
     public WarehouseDataInstall() {}
 
