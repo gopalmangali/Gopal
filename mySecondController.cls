@@ -1,4 +1,4 @@
-public class mySecondController {
+public class mySecondController123 {
     Account account;
 
     public Account getAccount() {
